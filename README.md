@@ -2,23 +2,23 @@
 
 Projeto de Machine Learning desenvolvido para classificar o score de crédito de clientes bancários em três categorias: **Ruim**, **Ok** ou **Bom**.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um case de classificação de crédito. O sistema analisa dados históricos de clientes e utiliza algoritmos de Machine Learning para prever automaticamente o score de crédito de novos clientes, auxiliando instituições financeiras na tomada de decisões sobre concessão de crédito.
 
-## 🎯 Objetivo
+## Objetivo
 
 Criar um modelo de Inteligência Artificial capaz de analisar as informações de um cliente e classificar automaticamente seu score de crédito, facilitando a avaliação de risco creditício.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- ✅ Análise e tratamento de dados de clientes
-- ✅ Pré-processamento de dados categóricos (profissão, mix de crédito, comportamento de pagamento)
-- ✅ Treinamento de múltiplos modelos de Machine Learning (RandomForest e KNN)
-- ✅ Comparação de modelos para seleção do melhor algoritmo
-- ✅ Previsão de score de crédito para novos clientes
+- Análise e tratamento de dados de clientes
+- Pré-processamento de dados categóricos (profissão, mix de crédito, comportamento de pagamento)
+- Treinamento de múltiplos modelos de Machine Learning (RandomForest e KNN)
+- Comparação de modelos para seleção do melhor algoritmo
+- Previsão de score de crédito para novos clientes
 
-## 📊 Dados Utilizados
+## Dados Utilizados
 
 O projeto utiliza um dataset com **100.000 clientes** contendo informações como:
 
@@ -28,7 +28,7 @@ O projeto utiliza um dataset com **100.000 clientes** contendo informações com
 - Indicadores financeiros (taxa de uso de crédito, investimento mensal, saldo final do mês)
 - Tipos de empréstimos (carro, casa, pessoal, crédito, estudantil)
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
 - **Pandas** - Manipulação e análise de dados
@@ -39,7 +39,7 @@ O projeto utiliza um dataset com **100.000 clientes** contendo informações com
   - `train_test_split` - Divisão de dados para treino e teste
   - `accuracy_score` - Métrica de avaliação
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 .
@@ -49,7 +49,7 @@ O projeto utiliza um dataset com **100.000 clientes** contendo informações com
 └── README.md              # Este arquivo
 ```
 
-## 🔧 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 
@@ -74,7 +74,7 @@ cd <nome-do-repositorio>
    - **Passo 4**: Avaliação e comparação dos modelos
    - **Passo 5**: Previsões para novos clientes
 
-## 📈 Metodologia
+## Metodologia
 
 O projeto segue uma metodologia estruturada de Machine Learning:
 
@@ -85,7 +85,7 @@ O projeto segue uma metodologia estruturada de Machine Learning:
 5. **Avaliação**: Comparação dos modelos usando acurácia
 6. **Predição**: Aplicação do melhor modelo em novos clientes
 
-## 🎓 Aprendizados
+## Aprendizados
 
 - Processamento de dados para Machine Learning
 - Classificação multiclasse
@@ -93,16 +93,16 @@ O projeto segue uma metodologia estruturada de Machine Learning:
 - Métricas de avaliação de modelos
 - Pipeline completo de um projeto de IA
 
-## 📝 Observações
+## Observações
 
 - O modelo RandomForest demonstrou melhor desempenho em comparação ao KNN
 - O dataset possui 25 features (atributos) para previsão
 - O projeto utiliza classificação supervisionada
 
-## 👤 Autor
+## Autor
 
 Desenvolvido como parte do aprendizado em Machine Learning e Inteligência Artificial.
 
-## 📄 Licença
+## Licença
 
 Este projeto é de código aberto e está disponível para fins educacionais.
