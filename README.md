@@ -1,4 +1,4 @@
-# Sistema de Previsão de Score de Crédito 🏦
+# Sistema de Previsão de Score de Crédito 
 
 Projeto de Machine Learning desenvolvido para classificar o score de crédito de clientes bancários em três categorias: **Ruim**, **Ok** ou **Bom**.
 
