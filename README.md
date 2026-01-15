@@ -101,7 +101,8 @@ O projeto segue uma metodologia estruturada de Machine Learning:
 
 ## Autor
 
-Gabriela Grisolia
+Gabriela Grisolia 
+Projeto desenvolvido durante a Jornada Python (Hashtag Treinamentos).
 
 ## Licença
 
