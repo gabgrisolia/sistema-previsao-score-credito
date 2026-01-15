@@ -101,7 +101,7 @@ O projeto segue uma metodologia estruturada de Machine Learning:
 
 ## Autor
 
-Desenvolvido como parte do aprendizado em Machine Learning e Inteligência Artificial.
+Gabriela Grisolia
 
 ## Licença
 
